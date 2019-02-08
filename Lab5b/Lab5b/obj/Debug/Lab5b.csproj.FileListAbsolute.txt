@@ -1,0 +1,10 @@
+E:\School stuff\Semester 3\C#\Lab5BrandonLake\Lab5b\Lab5b\bin\Debug\Lab5b.exe.config
+E:\School stuff\Semester 3\C#\Lab5BrandonLake\Lab5b\Lab5b\bin\Debug\Lab5b.exe
+E:\School stuff\Semester 3\C#\Lab5BrandonLake\Lab5b\Lab5b\bin\Debug\Lab5b.pdb
+E:\School stuff\Semester 3\C#\Lab5BrandonLake\Lab5b\Lab5b\obj\Debug\Lab5b.Form1.resources
+E:\School stuff\Semester 3\C#\Lab5BrandonLake\Lab5b\Lab5b\obj\Debug\Lab5b.Properties.Resources.resources
+E:\School stuff\Semester 3\C#\Lab5BrandonLake\Lab5b\Lab5b\obj\Debug\Lab5b.csproj.GenerateResource.cache
+E:\School stuff\Semester 3\C#\Lab5BrandonLake\Lab5b\Lab5b\obj\Debug\Lab5b.csproj.CoreCompileInputs.cache
+E:\School stuff\Semester 3\C#\Lab5BrandonLake\Lab5b\Lab5b\obj\Debug\Lab5b.exe
+E:\School stuff\Semester 3\C#\Lab5BrandonLake\Lab5b\Lab5b\obj\Debug\Lab5b.pdb
+E:\School stuff\Semester 3\C#\Lab5BrandonLake\Lab5b\Lab5b\obj\Debug\Lab5b.csprojAssemblyReference.cache
